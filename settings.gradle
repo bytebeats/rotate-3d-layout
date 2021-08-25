@@ -1,0 +1,3 @@
+rootProject.name = "rotate-3d-layout"
+include ':app'
+include ':rotate3d-library'
