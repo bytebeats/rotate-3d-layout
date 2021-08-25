@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">rotate-3d-layout</string>
+    <string name="dark_side">Transformer: The Dark Side of the Moon</string>
+    <string name="moon">Transformer: the Moon</string>
 </resources>
